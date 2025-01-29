@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @TheodorosAnastasiadis
-- 👀 I’m interested in Back End Development and Web Development
+- Hello, I’m @TheodorosAnastasiadis
 - Currently studying in the Department of Informatics and Telecommunucations of the Univarsity of Thessaly, Greece
-- 🌱 I’m currently learning C,Java,Pyhton,Bash
-- 📫 How to reach me: Via email: theodorosanastasiadis15@gmail.com
+- I’m currently learning C,Java,Pyhton,Bash
+- How to reach me: Via email: theodorosanastasiadis15@gmail.com
 - Academic email: tanastasiadis@uth.gr
 
 
