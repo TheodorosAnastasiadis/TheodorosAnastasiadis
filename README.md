@@ -1,4 +1,4 @@
-- Hello, I’m @TheodorosAnastasiadis
+- Hello, I’m Theodoros Anastasiadis
 - Currently studying in the Department of Informatics and Telecommunucations of the Univarsity of Thessaly, Greece
 - I’m currently learning C,Java,Pyhton,Bash
 - How to reach me: Via email: theodorosanastasiadis15@gmail.com
