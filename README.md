@@ -1,6 +1,6 @@
 - Hello, I’m Theodoros Anastasiadis
 - Currently studying in the Department of Informatics and Telecommunucations of the Univarsity of Thessaly, Greece
-- I’m currently learning C,Java,Pyhton,Bash
+- I’m currently learning C,Java and Pyhton and learning to operate Linux operating systems
 - How to reach me: Via email: theodorosanastasiadis15@gmail.com
 - Academic email: tanastasiadis@uth.gr
 
