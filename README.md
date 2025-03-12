@@ -3,7 +3,7 @@
 - I’m currently learning C,Java and Pyhton and learning to operate Linux operating systems
 - How to reach me: Via email: theodorosanastasiadis15@gmail.com
 - Academic email: tanastasiadis@uth.gr
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/theodoros-anastasiadis-a34a64355)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/theodoros-anastasiadis-a34a64355)
 
 
 <!---
